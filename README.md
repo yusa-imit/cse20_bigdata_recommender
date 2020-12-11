@@ -2,6 +2,11 @@
 
 ---
 
+## DataSet Download
+
+https://drive.google.com/file/d/10vaEmYkahxF5Vs40OHkPLWZcnI1TFvvx/view?usp=sharing
+
+
 ## DataSet Info
 
 #### game_detail
