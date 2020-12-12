@@ -4,7 +4,9 @@
 
 ## DataSet Download
 
-https://drive.google.com/file/d/10vaEmYkahxF5Vs40OHkPLWZcnI1TFvvx/view?usp=sharing
+Download from GoogleDrive : https://drive.google.com/file/d/10vaEmYkahxF5Vs40OHkPLWZcnI1TFvvx/view?usp=sharing
+
+Download from Personal server : https://cloud.sutora.org/s/6MYXWdZ3MpZmw3f
 
 
 ## DataSet Info
